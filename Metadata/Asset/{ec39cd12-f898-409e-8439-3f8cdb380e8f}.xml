@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EncodableAsset" id="{ec39cd12-f898-409e-8439-3f8cdb380e8f}">
+		<property name="assetPath">
+			<value>modded/bo noise/secrets/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3ec376c7-9dab-4e28-9892-9388771afac6}</destination>
+		</relationship>
+	</object>
+</objects>

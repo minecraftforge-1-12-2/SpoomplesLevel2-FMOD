@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{dd1414e3-f2e9-4cf7-b1c1-ba32bfbdde5c}">
+		<property name="assetPath">
+			<value>modded/sugary spire/mu_swamp2.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>141.91303854875284</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3ec376c7-9dab-4e28-9892-9388771afac6}</destination>
+		</relationship>
+	</object>
+</objects>
