@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{e1597af0-0bfd-4991-a89e-06d82ce6fbbc}">
+		<property name="name">
+			<value>PISSINO</value>
+		</property>
+		<relationship name="folder">
+			<destination>{3a75a9c6-6e02-497e-aea6-079f75f09dd9}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{d0ee229a-40ef-47c6-8674-4b345cac6bcc}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{d0ee229a-40ef-47c6-8674-4b345cac6bcc}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>
